@@ -1,0 +1,19 @@
+.contrainner{
+   margin: 0 auto;
+   width: 400px;
+ 
+ border: 1px solid black;
+}
+.row{
+   padding-left: 20px;
+   
+}
+#bt{
+    padding: 5px;
+}
+#nut{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+
